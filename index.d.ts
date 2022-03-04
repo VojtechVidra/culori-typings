@@ -4,6 +4,8 @@ declare module "culori" {
   export const converter;
   export const wcagContrast;
   export const average;
+  export const formatHsl;
+  export const formatRgb;
 }
 
 declare module "culori/all";
