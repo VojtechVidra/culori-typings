@@ -1,3 +1,5 @@
+/// <reference types="./require" />
+
 declare module "culori" {
   export const formatHex;
   export const displayable;
