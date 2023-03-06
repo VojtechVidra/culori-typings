@@ -6,4 +6,6 @@ declare module "culori/require" {
   export const average;
   export const formatHsl;
   export const formatRgb;
+  export const parse;
+  export const formatCss;
 }

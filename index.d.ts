@@ -8,6 +8,8 @@ declare module "culori" {
   export const average;
   export const formatHsl;
   export const formatRgb;
+  export const parse;
+  export const formatCss;
 }
 
 declare module "culori/all";
