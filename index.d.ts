@@ -10,6 +10,10 @@ declare module "culori" {
   export const formatRgb;
   export const parse;
   export const formatCss;
+  export const filterDeficiencyProt;
+  export const filterDeficiencyDeuter;
+  export const filterDeficiencyTrit;
+  export const filterGrayscale;
 }
 
 declare module "culori/all";

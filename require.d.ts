@@ -8,4 +8,8 @@ declare module "culori/require" {
   export const formatRgb;
   export const parse;
   export const formatCss;
+  export const filterDeficiencyProt;
+  export const filterDeficiencyDeuter;
+  export const filterDeficiencyTrit;
+  export const filterGrayscale;
 }
