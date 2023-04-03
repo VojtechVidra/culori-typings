@@ -3,6 +3,7 @@ declare module "culori/require" {
   export const displayable;
   export const converter;
   export const wcagContrast;
+  export const wcagLuminance;
   export const average;
   export const formatHsl;
   export const formatRgb;
