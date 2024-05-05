@@ -1,6 +1,6 @@
 {
   "name": "@types/culori",
-  "version": "3.0.1",
-  "typings": "index.d.ts",
+  "version": "4.0.1",
+  "types": "index.d.ts",
   "license": "MIT"
 }
